@@ -1,0 +1,642 @@
+2023-10-24 22:50:31,813 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:07:41,415 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:15:23,476 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:16:00,566 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:16:00,569 Initializing dataset VLN-CE-v1
+2023-10-24 23:16:46,379 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:16:46,382 Initializing dataset VLN-CE-v1
+2023-10-24 23:25:58,367 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:30:28,729 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:30:43,460 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:32:29,446 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-24 23:38:04,245 Initializing dataset VLN-CE-v1
+2023-10-25 11:42:56,791 Initializing dataset VLN-CE-v1
+2023-10-25 12:15:31,876 Initializing dataset VLN-CE-v1
+2023-10-25 12:22:35,187 Initializing dataset VLN-CE-v1
+2023-10-25 12:29:38,406 Initializing dataset VLN-CE-v1
+2023-10-25 12:58:24,696 Initializing dataset VLN-CE-v1
+2023-10-25 13:06:09,804 Initializing dataset VLN-CE-v1
+2023-10-25 13:10:21,847 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-25 13:11:04,772 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-25 13:11:04,909 Initializing dataset VLN-CE-v1
+2023-10-26 22:16:53,110 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:16:53,314 Initializing dataset VLN-CE-v1
+2023-10-26 22:18:40,396 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:19:37,928 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:19:37,930 Initializing dataset VLN-CE-v1
+2023-10-26 22:27:01,162 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:27:01,164 Initializing dataset VLN-CE-v1
+2023-10-26 22:27:49,785 Initializing dataset VLN-CE-v1
+2023-10-26 22:34:53,583 Initializing dataset VLN-CE-v1
+2023-10-26 22:37:31,157 Initializing dataset VLN-CE-v1
+2023-10-26 22:39:54,996 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:39:54,999 Initializing dataset VLN-CE-v1
+2023-10-26 22:42:46,111 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:42:46,113 Initializing dataset VLN-CE-v1
+2023-10-26 22:43:15,469 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:43:15,471 Initializing dataset VLN-CE-v1
+2023-10-26 22:43:21,916 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:43:21,918 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 22:43:21,918 Finished setting up policy.
+2023-10-26 22:48:28,720 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:48:28,722 Initializing dataset VLN-CE-v1
+2023-10-26 22:48:34,821 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 22:48:34,822 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 22:48:34,823 Finished setting up policy.
+2023-10-26 23:21:55,593 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:21:55,596 Initializing dataset VLN-CE-v1
+2023-10-26 23:22:01,631 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:22:01,633 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:22:01,633 Finished setting up policy.
+2023-10-26 23:23:00,572 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:23:00,574 Initializing dataset VLN-CE-v1
+2023-10-26 23:23:06,590 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:23:06,591 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:23:06,591 Finished setting up policy.
+2023-10-26 23:24:48,182 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:24:48,184 Initializing dataset VLN-CE-v1
+2023-10-26 23:24:54,336 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:24:54,337 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:24:54,337 Finished setting up policy.
+2023-10-26 23:25:31,062 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:25:31,065 Initializing dataset VLN-CE-v1
+2023-10-26 23:25:37,071 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:25:37,073 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:25:37,073 Finished setting up policy.
+2023-10-26 23:26:33,708 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:26:33,710 Initializing dataset VLN-CE-v1
+2023-10-26 23:26:39,697 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:26:39,699 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:26:39,699 Finished setting up policy.
+2023-10-26 23:27:08,787 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:27:08,790 Initializing dataset VLN-CE-v1
+2023-10-26 23:27:14,690 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:27:14,691 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:27:14,691 Finished setting up policy.
+2023-10-26 23:27:46,797 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:27:46,799 Initializing dataset VLN-CE-v1
+2023-10-26 23:27:52,854 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:27:52,855 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:27:52,855 Finished setting up policy.
+2023-10-26 23:28:13,019 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:28:13,021 Initializing dataset VLN-CE-v1
+2023-10-26 23:28:19,233 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:28:19,234 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:28:19,234 Finished setting up policy.
+2023-10-26 23:29:44,858 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:29:44,861 Initializing dataset VLN-CE-v1
+2023-10-26 23:29:50,779 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:29:50,781 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:29:50,781 Finished setting up policy.
+2023-10-26 23:30:36,163 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:30:36,165 Initializing dataset VLN-CE-v1
+2023-10-26 23:30:42,098 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:30:42,099 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:30:42,099 Finished setting up policy.
+2023-10-26 23:31:18,332 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:31:18,334 Initializing dataset VLN-CE-v1
+2023-10-26 23:31:24,409 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:31:24,411 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:31:24,411 Finished setting up policy.
+2023-10-26 23:33:08,037 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:33:08,039 Initializing dataset VLN-CE-v1
+2023-10-26 23:33:14,150 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:33:14,151 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:33:14,151 Finished setting up policy.
+2023-10-26 23:34:24,554 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:34:24,556 Initializing dataset VLN-CE-v1
+2023-10-26 23:34:30,564 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:34:30,565 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:34:30,565 Finished setting up policy.
+2023-10-26 23:34:49,412 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:34:49,415 Initializing dataset VLN-CE-v1
+2023-10-26 23:34:55,467 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:34:55,469 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:34:55,469 Finished setting up policy.
+2023-10-26 23:38:24,770 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:38:24,773 Initializing dataset VLN-CE-v1
+2023-10-26 23:38:30,847 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:38:30,848 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:38:30,848 Finished setting up policy.
+2023-10-26 23:38:54,685 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:38:54,687 Initializing dataset VLN-CE-v1
+2023-10-26 23:39:00,720 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:39:00,721 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:39:00,721 Finished setting up policy.
+2023-10-26 23:40:10,491 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:40:10,494 Initializing dataset VLN-CE-v1
+2023-10-26 23:40:16,531 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:40:16,532 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:40:16,532 Finished setting up policy.
+2023-10-26 23:41:00,661 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:41:00,663 Initializing dataset VLN-CE-v1
+2023-10-26 23:41:06,702 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:41:06,704 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:41:06,704 Finished setting up policy.
+2023-10-26 23:41:26,560 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:41:26,562 Initializing dataset VLN-CE-v1
+2023-10-26 23:41:32,654 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:41:32,655 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:41:32,655 Finished setting up policy.
+2023-10-26 23:42:50,549 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:42:50,551 Initializing dataset VLN-CE-v1
+2023-10-26 23:42:56,857 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:42:56,859 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:42:56,859 Finished setting up policy.
+2023-10-26 23:44:15,359 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:44:15,361 Initializing dataset VLN-CE-v1
+2023-10-26 23:45:24,959 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:45:24,961 Initializing dataset VLN-CE-v1
+2023-10-26 23:45:30,990 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:45:30,991 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:45:30,991 Finished setting up policy.
+2023-10-26 23:50:57,934 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:50:57,937 Initializing dataset VLN-CE-v1
+2023-10-26 23:51:04,145 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:51:04,147 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:51:04,147 Finished setting up policy.
+2023-10-26 23:51:59,269 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:51:59,272 Initializing dataset VLN-CE-v1
+2023-10-26 23:52:05,478 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:52:05,479 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:52:05,479 Finished setting up policy.
+2023-10-26 23:53:37,199 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:53:37,201 Initializing dataset VLN-CE-v1
+2023-10-26 23:53:43,219 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-26 23:53:43,220 Agent parameters: 38083680. Trainable: 7506240
+2023-10-26 23:53:43,220 Finished setting up policy.
+2023-10-27 00:00:02,728 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 00:00:02,730 Initializing dataset VLN-CE-v1
+2023-10-27 00:00:08,771 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 00:00:08,772 Agent parameters: 38083680. Trainable: 7506240
+2023-10-27 00:00:08,772 Finished setting up policy.
+2023-10-27 00:01:31,506 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 00:01:31,508 Initializing dataset VLN-CE-v1
+2023-10-27 00:01:37,437 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 00:01:37,439 Agent parameters: 38083680. Trainable: 7506240
+2023-10-27 00:01:37,439 Finished setting up policy.
+2023-10-27 11:43:17,498 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 11:43:17,500 Initializing dataset VLN-CE-v1
+2023-10-27 11:43:23,258 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 11:43:23,259 Agent parameters: 38083680. Trainable: 7506240
+2023-10-27 11:43:23,259 Finished setting up policy.
+2023-10-27 11:54:39,700 Episodes evaluated: 1839
+2023-10-27 11:54:39,700 Average episode steps_taken: 8.434475
+2023-10-27 11:54:39,700 Average episode distance_to_goal: 6.232022
+2023-10-27 11:54:39,700 Average episode success: 0.401305
+2023-10-27 11:54:39,701 Average episode oracle_success: 0.512779
+2023-10-27 11:54:39,701 Average episode path_length: 10.948510
+2023-10-27 11:54:39,701 Average episode collisions: 0.064596
+2023-10-27 11:54:39,701 Average episode spl: 0.351372
+2023-10-27 11:54:39,701 Average episode ndtw: 0.548229
+2023-10-27 11:58:45,020 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 11:58:45,146 Initializing dataset VLN-CE-v1
+2023-10-27 11:58:55,021 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-10-27 11:58:55,023 Agent parameters: 38083680. Trainable: 7506240
+2023-10-27 11:58:55,023 Finished setting up policy.
+2023-10-27 12:22:41,562 Predictions saved to: test
+2023-11-03 13:11:03,496 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-11-03 13:11:03,702 Initializing dataset VLN-CE-v1
+2023-11-03 13:14:59,834 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-11-03 13:14:59,961 Initializing dataset VLN-CE-v1
+2023-11-03 13:16:33,096 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-11-03 13:16:33,211 Initializing dataset VLN-CE-v1
+2023-11-03 13:16:43,651 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-11-03 13:16:43,652 Agent parameters: 38083680. Trainable: 7506240
+2023-11-03 13:16:43,653 Finished setting up policy.
+2023-11-03 13:17:58,470 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-11-03 13:17:58,472 Initializing dataset VLN-CE-v1
+2023-11-03 13:18:04,353 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-11-03 13:18:04,355 Agent parameters: 38083680. Trainable: 7506240
+2023-11-03 13:18:04,355 Finished setting up policy.
+2023-11-03 13:29:21,972 Episodes evaluated: 1839
+2023-11-03 13:29:21,972 Average episode steps_taken: 8.412724
+2023-11-03 13:29:21,973 Average episode distance_to_goal: 6.207103
+2023-11-03 13:29:21,973 Average episode success: 0.404568
+2023-11-03 13:29:21,973 Average episode oracle_success: 0.514954
+2023-11-03 13:29:21,973 Average episode path_length: 10.887952
+2023-11-03 13:29:21,973 Average episode collisions: 0.064164
+2023-11-03 13:29:21,974 Average episode spl: 0.353859
+2023-11-03 13:29:21,974 Average episode ndtw: 0.550110
+2023-12-21 21:03:41,668 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-21 21:03:57,503 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-21 21:03:57,505 Initializing dataset VLN-CE-v1
+2023-12-21 21:04:05,173 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-21 21:04:05,174 Agent parameters: 38083680. Trainable: 7506240
+2023-12-21 21:04:05,174 Finished setting up policy.
+2023-12-21 23:20:26,971 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-21 23:20:26,973 Initializing dataset VLN-CE-v1
+2023-12-21 23:20:33,419 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-21 23:20:33,421 Agent parameters: 38083680. Trainable: 7506240
+2023-12-21 23:20:33,421 Finished setting up policy.
+2023-12-21 23:32:33,323 Episodes evaluated: 1839
+2023-12-21 23:32:33,323 Average episode steps_taken: 8.412724
+2023-12-21 23:32:33,323 Average episode distance_to_goal: 6.207103
+2023-12-21 23:32:33,323 Average episode success: 0.404568
+2023-12-21 23:32:33,323 Average episode oracle_success: 0.514954
+2023-12-21 23:32:33,323 Average episode path_length: 10.887952
+2023-12-21 23:32:33,323 Average episode collisions: 0.064164
+2023-12-21 23:32:33,323 Average episode spl: 0.353859
+2023-12-21 23:32:33,323 Average episode ndtw: 0.550110
+2023-12-23 15:01:31,850 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:03:15,985 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:03:15,987 Initializing dataset VLN-CE-v1
+2023-12-23 15:04:51,223 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:04:51,225 Initializing dataset VLN-CE-v1
+2023-12-23 15:04:58,885 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:04:58,886 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 15:04:58,886 Finished setting up policy.
+2023-12-23 15:06:16,039 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:06:16,041 Initializing dataset VLN-CE-v1
+2023-12-23 15:06:21,883 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:06:21,884 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 15:06:21,885 Finished setting up policy.
+2023-12-23 15:21:37,904 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:21:37,906 Initializing dataset VLN-CE-v1
+2023-12-23 15:21:43,722 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:21:43,723 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 15:21:43,723 Finished setting up policy.
+2023-12-23 15:44:36,823 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:44:36,825 Initializing dataset VLN-CE-v1
+2023-12-23 15:44:42,708 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:44:42,709 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 15:44:42,709 Finished setting up policy.
+2023-12-23 15:45:33,461 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:45:33,463 Initializing dataset VLN-CE-v1
+2023-12-23 15:45:39,273 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:45:39,274 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 15:45:39,274 Finished setting up policy.
+2023-12-23 15:45:43,183 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 15:45:45,660 Video created: videos/debug/episode=1685-ckpt=0-spl=0.00.mp4
+2023-12-23 15:45:48,002 Video created: videos/debug/episode=821-ckpt=0-spl=0.00.mp4
+2023-12-23 15:45:50,103 Video created: videos/debug/episode=1024-ckpt=0-spl=0.00.mp4
+2023-12-23 15:45:52,696 Video created: videos/debug/episode=1477-ckpt=0-spl=0.00.mp4
+2023-12-23 15:45:54,622 Video created: videos/debug/episode=1636-ckpt=0-spl=0.84.mp4
+2023-12-23 15:45:56,672 Video created: videos/debug/episode=675-ckpt=0-spl=0.00.mp4
+2023-12-23 15:45:59,152 Video created: videos/debug/episode=164-ckpt=0-spl=0.50.mp4
+2023-12-23 15:46:01,546 Video created: videos/debug/episode=1375-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:04,098 Video created: videos/debug/episode=1679-ckpt=0-spl=0.81.mp4
+2023-12-23 15:46:06,213 Video created: videos/debug/episode=250-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:08,309 Video created: videos/debug/episode=2-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:10,409 Video created: videos/debug/episode=475-ckpt=0-spl=0.98.mp4
+2023-12-23 15:46:12,334 Video created: videos/debug/episode=1356-ckpt=0-spl=1.00.mp4
+2023-12-23 15:46:14,666 Video created: videos/debug/episode=252-ckpt=0-spl=0.60.mp4
+2023-12-23 15:46:17,494 Video created: videos/debug/episode=1439-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:19,631 Video created: videos/debug/episode=1016-ckpt=0-spl=1.00.mp4
+2023-12-23 15:46:21,866 Video created: videos/debug/episode=1285-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:23,992 Video created: videos/debug/episode=1478-ckpt=0-spl=0.99.mp4
+2023-12-23 15:46:26,390 Video created: videos/debug/episode=25-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:28,408 Video created: videos/debug/episode=1109-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:30,436 Video created: videos/debug/episode=961-ckpt=0-spl=0.97.mp4
+2023-12-23 15:46:32,835 Video created: videos/debug/episode=516-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:35,163 Video created: videos/debug/episode=14-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:37,344 Video created: videos/debug/episode=385-ckpt=0-spl=0.90.mp4
+2023-12-23 15:46:39,972 Video created: videos/debug/episode=744-ckpt=0-spl=0.76.mp4
+2023-12-23 15:46:41,948 Video created: videos/debug/episode=447-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:44,999 Video created: videos/debug/episode=156-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:47,235 Video created: videos/debug/episode=1196-ckpt=0-spl=1.00.mp4
+2023-12-23 15:46:49,494 Video created: videos/debug/episode=1692-ckpt=0-spl=0.83.mp4
+2023-12-23 15:46:52,251 Video created: videos/debug/episode=302-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:54,476 Video created: videos/debug/episode=1263-ckpt=0-spl=0.93.mp4
+2023-12-23 15:46:56,611 Video created: videos/debug/episode=86-ckpt=0-spl=0.00.mp4
+2023-12-23 15:46:58,531 Video created: videos/debug/episode=1136-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:00,983 Video created: videos/debug/episode=1440-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:03,114 Video created: videos/debug/episode=963-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:05,299 Video created: videos/debug/episode=1614-ckpt=0-spl=0.84.mp4
+2023-12-23 15:47:07,279 Video created: videos/debug/episode=251-ckpt=0-spl=1.00.mp4
+2023-12-23 15:47:09,464 Video created: videos/debug/episode=303-ckpt=0-spl=1.00.mp4
+2023-12-23 15:47:13,148 Video created: videos/debug/episode=1720-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:15,353 Video created: videos/debug/episode=828-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:17,385 Video created: videos/debug/episode=476-ckpt=0-spl=1.00.mp4
+2023-12-23 15:47:19,444 Video created: videos/debug/episode=715-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:21,547 Video created: videos/debug/episode=546-ckpt=0-spl=0.66.mp4
+2023-12-23 15:47:23,615 Video created: videos/debug/episode=1110-ckpt=0-spl=1.00.mp4
+2023-12-23 15:47:25,795 Video created: videos/debug/episode=415-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:27,900 Video created: videos/debug/episode=1100-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:29,956 Video created: videos/debug/episode=440-ckpt=0-spl=0.76.mp4
+2023-12-23 15:47:32,131 Video created: videos/debug/episode=52-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:34,013 Video created: videos/debug/episode=968-ckpt=0-spl=0.87.mp4
+2023-12-23 15:47:35,993 Video created: videos/debug/episode=922-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:38,205 Video created: videos/debug/episode=515-ckpt=0-spl=1.00.mp4
+2023-12-23 15:47:40,625 Video created: videos/debug/episode=868-ckpt=0-spl=0.76.mp4
+2023-12-23 15:47:42,441 Video created: videos/debug/episode=544-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:44,439 Video created: videos/debug/episode=163-ckpt=0-spl=0.93.mp4
+2023-12-23 15:47:46,660 Video created: videos/debug/episode=137-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:48,984 Video created: videos/debug/episode=934-ckpt=0-spl=0.97.mp4
+2023-12-23 15:47:51,059 Video created: videos/debug/episode=1137-ckpt=0-spl=1.00.mp4
+2023-12-23 15:47:53,606 Video created: videos/debug/episode=674-ckpt=0-spl=0.00.mp4
+2023-12-23 15:47:55,607 Video created: videos/debug/episode=1522-ckpt=0-spl=0.83.mp4
+2023-12-23 15:47:57,930 Video created: videos/debug/episode=1377-ckpt=0-spl=0.71.mp4
+2023-12-23 15:48:00,159 Video created: videos/debug/episode=935-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:02,201 Video created: videos/debug/episode=1099-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:04,627 Video created: videos/debug/episode=1262-ckpt=0-spl=0.77.mp4
+2023-12-23 15:48:06,911 Video created: videos/debug/episode=1502-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:08,791 Video created: videos/debug/episode=924-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:11,141 Video created: videos/debug/episode=1480-ckpt=0-spl=0.65.mp4
+2023-12-23 15:48:13,759 Video created: videos/debug/episode=655-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:15,858 Video created: videos/debug/episode=898-ckpt=0-spl=0.79.mp4
+2023-12-23 15:48:17,982 Video created: videos/debug/episode=962-ckpt=0-spl=0.97.mp4
+2023-12-23 15:48:20,388 Video created: videos/debug/episode=369-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:22,647 Video created: videos/debug/episode=1680-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:24,732 Video created: videos/debug/episode=672-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:26,825 Video created: videos/debug/episode=1682-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:28,944 Video created: videos/debug/episode=1025-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:30,881 Video created: videos/debug/episode=1523-ckpt=0-spl=0.83.mp4
+2023-12-23 15:48:33,460 Video created: videos/debug/episode=1807-ckpt=0-spl=0.96.mp4
+2023-12-23 15:48:35,393 Video created: videos/debug/episode=1200-ckpt=0-spl=0.93.mp4
+2023-12-23 15:48:37,330 Video created: videos/debug/episode=1765-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:39,904 Video created: videos/debug/episode=910-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:41,990 Video created: videos/debug/episode=38-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:44,467 Video created: videos/debug/episode=154-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:46,779 Video created: videos/debug/episode=716-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:48,860 Video created: videos/debug/episode=1026-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:50,937 Video created: videos/debug/episode=1766-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:53,029 Video created: videos/debug/episode=1360-ckpt=0-spl=0.99.mp4
+2023-12-23 15:48:55,188 Video created: videos/debug/episode=1361-ckpt=0-spl=0.00.mp4
+2023-12-23 15:48:57,332 Video created: videos/debug/episode=367-ckpt=0-spl=1.00.mp4
+2023-12-23 15:48:59,579 Video created: videos/debug/episode=354-ckpt=0-spl=0.70.mp4
+2023-12-23 15:49:01,903 Video created: videos/debug/episode=900-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:04,107 Video created: videos/debug/episode=1551-ckpt=0-spl=1.00.mp4
+2023-12-23 15:49:06,170 Video created: videos/debug/episode=1389-ckpt=0-spl=0.74.mp4
+2023-12-23 15:49:08,392 Video created: videos/debug/episode=1684-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:10,810 Video created: videos/debug/episode=248-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:12,696 Video created: videos/debug/episode=1521-ckpt=0-spl=1.00.mp4
+2023-12-23 15:49:14,789 Video created: videos/debug/episode=1135-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:17,232 Video created: videos/debug/episode=743-ckpt=0-spl=0.86.mp4
+2023-12-23 15:49:19,179 Video created: videos/debug/episode=352-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:22,003 Video created: videos/debug/episode=40-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:23,960 Video created: videos/debug/episode=1774-ckpt=0-spl=1.00.mp4
+2023-12-23 15:49:26,369 Video created: videos/debug/episode=866-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:28,304 Video created: videos/debug/episode=507-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:30,880 Video created: videos/debug/episode=13-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:32,894 Video created: videos/debug/episode=629-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:35,118 Video created: videos/debug/episode=936-ckpt=0-spl=1.00.mp4
+2023-12-23 15:49:37,417 Video created: videos/debug/episode=1071-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:39,511 Video created: videos/debug/episode=1613-ckpt=0-spl=0.84.mp4
+2023-12-23 15:49:41,615 Video created: videos/debug/episode=746-ckpt=0-spl=1.00.mp4
+2023-12-23 15:49:43,929 Video created: videos/debug/episode=125-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:46,257 Video created: videos/debug/episode=1335-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:48,212 Video created: videos/debug/episode=1287-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:51,125 Video created: videos/debug/episode=969-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:53,357 Video created: videos/debug/episode=630-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:55,333 Video created: videos/debug/episode=956-ckpt=0-spl=0.00.mp4
+2023-12-23 15:49:57,646 Video created: videos/debug/episode=1033-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:00,487 Video created: videos/debug/episode=293-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:02,444 Video created: videos/debug/episode=361-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:04,358 Video created: videos/debug/episode=41-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:06,387 Video created: videos/debug/episode=573-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:08,537 Video created: videos/debug/episode=1388-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:10,533 Video created: videos/debug/episode=822-ckpt=0-spl=0.76.mp4
+2023-12-23 15:50:12,613 Video created: videos/debug/episode=247-ckpt=0-spl=0.97.mp4
+2023-12-23 15:50:14,697 Video created: videos/debug/episode=506-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:16,629 Video created: videos/debug/episode=1637-ckpt=0-spl=0.84.mp4
+2023-12-23 15:50:18,631 Video created: videos/debug/episode=353-ckpt=0-spl=0.96.mp4
+2023-12-23 15:50:20,873 Video created: videos/debug/episode=870-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:23,024 Video created: videos/debug/episode=747-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:25,111 Video created: videos/debug/episode=1775-ckpt=0-spl=1.00.mp4
+2023-12-23 15:50:27,334 Video created: videos/debug/episode=1482-ckpt=0-spl=0.81.mp4
+2023-12-23 15:50:30,029 Video created: videos/debug/episode=1678-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:32,134 Video created: videos/debug/episode=572-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:34,084 Video created: videos/debug/episode=439-ckpt=0-spl=1.00.mp4
+2023-12-23 15:50:36,242 Video created: videos/debug/episode=671-ckpt=0-spl=1.00.mp4
+2023-12-23 15:50:38,299 Video created: videos/debug/episode=1070-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:40,289 Video created: videos/debug/episode=820-ckpt=0-spl=0.76.mp4
+2023-12-23 15:50:42,537 Video created: videos/debug/episode=1240-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:44,392 Video created: videos/debug/episode=56-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:46,514 Video created: videos/debug/episode=362-ckpt=0-spl=1.00.mp4
+2023-12-23 15:50:48,717 Video created: videos/debug/episode=1101-ckpt=0-spl=1.00.mp4
+2023-12-23 15:50:50,588 Video created: videos/debug/episode=628-ckpt=0-spl=1.00.mp4
+2023-12-23 15:50:52,504 Video created: videos/debug/episode=1524-ckpt=0-spl=0.92.mp4
+2023-12-23 15:50:54,694 Video created: videos/debug/episode=1165-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:56,676 Video created: videos/debug/episode=1686-ckpt=0-spl=0.00.mp4
+2023-12-23 15:50:59,092 Video created: videos/debug/episode=827-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:01,248 Video created: videos/debug/episode=863-ckpt=0-spl=1.00.mp4
+2023-12-23 15:51:03,694 Video created: videos/debug/episode=446-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:05,885 Video created: videos/debug/episode=899-ckpt=0-spl=0.62.mp4
+2023-12-23 15:51:07,826 Video created: videos/debug/episode=1520-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:09,868 Video created: videos/debug/episode=745-ckpt=0-spl=1.00.mp4
+2023-12-23 15:51:11,906 Video created: videos/debug/episode=1040-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:14,095 Video created: videos/debug/episode=717-ckpt=0-spl=1.00.mp4
+2023-12-23 15:51:17,318 Video created: videos/debug/episode=1084-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:20,375 Video created: videos/debug/episode=1612-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:22,255 Video created: videos/debug/episode=27-ckpt=0-spl=0.00.mp4
+2023-12-23 15:51:24,648 Video created: videos/debug/episode=54-ckpt=0-spl=0.96.mp4
+2023-12-23 15:51:26,692 Video created: videos/debug/episode=147-ckpt=0-spl=0.97.mp4
+2023-12-23 15:52:19,040 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:52:19,154 Initializing dataset VLN-CE-v1
+2023-12-23 15:52:29,609 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 15:52:29,611 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 15:52:29,611 Finished setting up policy.
+2023-12-23 16:14:27,267 Predictions saved to: test
+2023-12-23 16:53:38,433 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 16:53:38,435 Initializing dataset VLN-CE-v1
+2023-12-23 16:53:44,327 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 16:53:44,328 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 16:53:44,328 Finished setting up policy.
+2023-12-23 16:54:27,089 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 16:54:27,091 Initializing dataset VLN-CE-v1
+2023-12-23 16:54:33,061 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 16:54:33,063 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 16:54:33,063 Finished setting up policy.
+2023-12-23 16:55:55,389 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 16:55:55,391 Initializing dataset VLN-CE-v1
+2023-12-23 16:56:01,147 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 16:56:01,148 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 16:56:01,148 Finished setting up policy.
+2023-12-23 16:56:04,996 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 16:56:07,422 Video created: videos/debug/episode=1685-ckpt=0-spl=0.00.mp4
+2023-12-23 16:56:09,825 Video created: videos/debug/episode=821-ckpt=0-spl=0.00.mp4
+2023-12-23 16:56:11,997 Video created: videos/debug/episode=1024-ckpt=0-spl=0.00.mp4
+2023-12-23 17:00:17,390 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:00:17,392 Initializing dataset VLN-CE-v1
+2023-12-23 17:00:23,094 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:00:23,095 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:00:23,095 Finished setting up policy.
+2023-12-23 17:01:03,312 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:01:03,314 Initializing dataset VLN-CE-v1
+2023-12-23 17:01:09,150 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:01:09,151 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:01:09,151 Finished setting up policy.
+2023-12-23 17:02:21,251 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:02:21,253 Initializing dataset VLN-CE-v1
+2023-12-23 17:02:27,168 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:02:27,169 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:02:27,169 Finished setting up policy.
+2023-12-23 17:03:42,627 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:03:42,629 Initializing dataset VLN-CE-v1
+2023-12-23 17:03:48,603 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:03:48,604 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:03:48,604 Finished setting up policy.
+2023-12-23 17:05:28,470 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:05:28,472 Initializing dataset VLN-CE-v1
+2023-12-23 17:05:34,257 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:05:34,258 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:05:34,258 Finished setting up policy.
+2023-12-23 17:07:11,946 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:07:11,948 Initializing dataset VLN-CE-v1
+2023-12-23 17:07:17,844 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:07:17,845 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:07:17,845 Finished setting up policy.
+2023-12-23 17:30:26,968 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:30:26,970 Initializing dataset VLN-CE-v1
+2023-12-23 17:30:32,781 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:30:32,782 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:30:32,782 Finished setting up policy.
+2023-12-23 17:43:25,433 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:43:25,435 Initializing dataset VLN-CE-v1
+2023-12-23 17:43:31,326 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:43:31,328 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:43:31,328 Finished setting up policy.
+2023-12-23 17:48:04,259 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:48:04,261 Initializing dataset VLN-CE-v1
+2023-12-23 17:48:10,222 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:48:10,224 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:48:10,224 Finished setting up policy.
+2023-12-23 17:54:19,495 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:54:19,497 Initializing dataset VLN-CE-v1
+2023-12-23 17:54:25,303 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 17:54:25,305 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 17:54:25,305 Finished setting up policy.
+2023-12-23 20:10:24,685 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:10:24,687 Initializing dataset VLN-CE-v1
+2023-12-23 20:10:30,556 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:10:30,557 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:10:30,557 Finished setting up policy.
+2023-12-23 20:12:35,449 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:12:35,451 Initializing dataset VLN-CE-v1
+2023-12-23 20:12:41,397 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:12:41,398 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:12:41,398 Finished setting up policy.
+2023-12-23 20:13:32,911 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:13:32,913 Initializing dataset VLN-CE-v1
+2023-12-23 20:13:38,803 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:13:38,805 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:13:38,805 Finished setting up policy.
+2023-12-23 20:16:22,472 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:16:22,474 Initializing dataset VLN-CE-v1
+2023-12-23 20:16:28,287 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:16:28,289 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:16:28,289 Finished setting up policy.
+2023-12-23 20:16:42,675 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:16:42,677 Initializing dataset VLN-CE-v1
+2023-12-23 20:16:48,529 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:16:48,530 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:16:48,530 Finished setting up policy.
+2023-12-23 20:52:26,598 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:52:26,600 Initializing dataset VLN-CE-v1
+2023-12-23 20:52:32,452 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:52:32,453 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:52:32,453 Finished setting up policy.
+2023-12-23 20:52:36,330 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:38,820 Video created: videos/debug/episode=1685-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:41,135 Video created: videos/debug/episode=821-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:43,260 Video created: videos/debug/episode=1024-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:45,802 Video created: videos/debug/episode=1477-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:47,798 Video created: videos/debug/episode=1636-ckpt=0-spl=0.84.mp4
+2023-12-23 20:52:49,970 Video created: videos/debug/episode=675-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:52,657 Video created: videos/debug/episode=164-ckpt=0-spl=0.50.mp4
+2023-12-23 20:52:55,218 Video created: videos/debug/episode=1375-ckpt=0-spl=0.00.mp4
+2023-12-23 20:52:57,842 Video created: videos/debug/episode=1679-ckpt=0-spl=0.81.mp4
+2023-12-23 20:52:59,964 Video created: videos/debug/episode=250-ckpt=0-spl=0.00.mp4
+2023-12-23 20:53:02,065 Video created: videos/debug/episode=2-ckpt=0-spl=0.00.mp4
+2023-12-23 20:53:04,162 Video created: videos/debug/episode=475-ckpt=0-spl=0.98.mp4
+2023-12-23 20:53:06,171 Video created: videos/debug/episode=1356-ckpt=0-spl=1.00.mp4
+2023-12-23 20:55:09,575 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:55:09,577 Initializing dataset VLN-CE-v1
+2023-12-23 20:55:15,554 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 20:55:15,556 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 20:55:15,556 Finished setting up policy.
+2023-12-23 21:01:35,541 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:01:35,543 Initializing dataset VLN-CE-v1
+2023-12-23 21:01:41,374 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:01:41,375 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:01:41,375 Finished setting up policy.
+2023-12-23 21:01:45,209 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:01:47,582 Video created: videos/debug/episode=1685-ckpt=0-spl=0.00.mp4
+2023-12-23 21:03:20,166 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:03:20,168 Initializing dataset VLN-CE-v1
+2023-12-23 21:03:26,158 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:03:26,159 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:03:26,159 Finished setting up policy.
+2023-12-23 21:03:30,100 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:03:32,540 Video created: videos/debug/episode=1685-ckpt=0-spl=0.00.mp4
+2023-12-23 21:04:08,982 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:04:08,984 Initializing dataset VLN-CE-v1
+2023-12-23 21:04:14,868 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:04:14,869 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:04:14,869 Finished setting up policy.
+2023-12-23 21:04:18,753 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:04:21,196 Video created: videos/debug/episode=1685-ckpt=0-spl=0.00.mp4
+2023-12-23 21:35:39,806 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:35:39,808 Initializing dataset VLN-CE-v1
+2023-12-23 21:35:45,787 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:35:45,789 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:35:45,789 Finished setting up policy.
+2023-12-23 21:35:49,720 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:37:10,029 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:37:10,031 Initializing dataset VLN-CE-v1
+2023-12-23 21:37:15,996 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:37:15,997 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:37:15,997 Finished setting up policy.
+2023-12-23 21:37:19,857 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:37:53,825 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:37:53,827 Initializing dataset VLN-CE-v1
+2023-12-23 21:37:59,701 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:37:59,702 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:37:59,702 Finished setting up policy.
+2023-12-23 21:38:03,549 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:40:45,283 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:40:45,285 Initializing dataset VLN-CE-v1
+2023-12-23 21:40:51,121 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:40:51,122 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:40:51,122 Finished setting up policy.
+2023-12-23 21:40:55,006 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:41:37,508 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:41:37,510 Initializing dataset VLN-CE-v1
+2023-12-23 21:41:43,362 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:41:43,363 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:41:43,363 Finished setting up policy.
+2023-12-23 21:41:47,180 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-23 21:42:32,949 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:42:32,950 Initializing dataset VLN-CE-v1
+2023-12-23 21:42:38,831 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-23 21:42:38,832 Agent parameters: 38083680. Trainable: 7506240
+2023-12-23 21:42:38,832 Finished setting up policy.
+2023-12-23 21:42:42,678 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-24 14:18:40,520 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:18:40,523 Initializing dataset VLN-CE-v1
+2023-12-24 14:18:48,211 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:18:48,212 Agent parameters: 38083680. Trainable: 7506240
+2023-12-24 14:18:48,212 Finished setting up policy.
+2023-12-24 14:22:22,269 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:22:22,271 Initializing dataset VLN-CE-v1
+2023-12-24 14:22:28,136 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:22:28,137 Agent parameters: 38083680. Trainable: 7506240
+2023-12-24 14:22:28,137 Finished setting up policy.
+2023-12-24 14:22:31,996 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-24 14:25:07,299 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:25:07,301 Initializing dataset VLN-CE-v1
+2023-12-24 14:25:13,091 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:25:13,092 Agent parameters: 38083680. Trainable: 7506240
+2023-12-24 14:25:13,092 Finished setting up policy.
+2023-12-24 14:25:16,874 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-24 14:26:52,147 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:26:52,149 Initializing dataset VLN-CE-v1
+2023-12-24 14:26:58,026 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:26:58,028 Agent parameters: 38083680. Trainable: 7506240
+2023-12-24 14:26:58,028 Finished setting up policy.
+2023-12-24 14:27:01,903 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-24 14:28:04,459 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:28:04,461 Initializing dataset VLN-CE-v1
+2023-12-24 14:28:10,370 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:28:10,371 Agent parameters: 38083680. Trainable: 7506240
+2023-12-24 14:28:10,371 Finished setting up policy.
+2023-12-24 14:28:14,230 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-24 14:30:17,675 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:30:17,677 Initializing dataset VLN-CE-v1
+2023-12-24 14:30:23,542 Loaded weights from checkpoint: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:30:23,543 Agent parameters: 38083680. Trainable: 7506240
+2023-12-24 14:30:23,543 Finished setting up policy.
+2023-12-24 14:30:27,360 Video created: videos/debug/episode=53-ckpt=0-spl=0.00.mp4
+2023-12-24 14:53:20,327 checkpoint_path: logs/checkpoints/cont-cwp-cma-ori/cma_ckpt_best.pth
+2023-12-24 14:53:20,329 Initializing dataset VLN-CE-v1
